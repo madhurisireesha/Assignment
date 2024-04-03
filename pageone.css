@@ -48,7 +48,7 @@ a{
 
 }
 .incontainer1{
-    background-image: linear-gradient(to right,rgb(234, 234, 165),rgb(232, 174, 232));
+    background-image: linear-gradient(to right,rgb(234, 234, 165),rgb(244, 205, 244));
    min-height: 100vh;
     display: flex;
     flex-direction: column;
