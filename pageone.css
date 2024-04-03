@@ -88,6 +88,10 @@ a{
     font-family: monospace;
     letter-spacing: 5px;
 }
+.meenu{
+    height:7vh;
+    width:4vw;
+}
 .des{
     padding-bottom: 50px;
     font-size: 20px;
