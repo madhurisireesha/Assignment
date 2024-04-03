@@ -19,7 +19,7 @@
     font-weight: bold;
     font-size: 25px;
 }
-@media(max-width:770px){
+@media(max-width:770px) and (max-width:1024px){
     .listitems{
         display:flex;
         flex-direction: column;
@@ -31,7 +31,7 @@
         max-height:60vh;
         min-width: 100vw;
     }
-    .menu{
+    .meenu{
         display: none;
     }
 }
@@ -58,18 +58,19 @@ a{
    padding-right: 160px;
    
 }
-@media (max-width:770px) {
+@media (max-width:770px) and (max-width:1024px) {
     .container1{
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
         width:100vw !important;
+       
     }
     .imgone{
         width:100vw !important;
         min-height: 100vh;
-        
+       
     }
     .navcontainer,.incontainer1{
         width:100vw !important;
